@@ -8,7 +8,7 @@ The .NET library for Ahk2Exe core(Autohotkey L)
 Install-Package Ahk2Exe-core.Net
 ```
 
-## or [Nuget website](https://www.nuget.org/packages/Ahk2Exe-core.Net/1.0.0)
+or [Nuget website](https://www.nuget.org/packages/Ahk2Exe-core.Net/1.0.0)
 
 # Development environment
 
